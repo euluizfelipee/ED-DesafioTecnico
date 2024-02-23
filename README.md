@@ -16,7 +16,7 @@ Processo seletivo para a vaga de Cientista de Dados Júnior no Escritório de Da
 
 # Resumo das Atividades: ⬇️
 
-      Neste projeto, conduzi a resolução de perguntas em SQL, onde minha experiência e familiaridade com a linguagem proporcionaram uma abordagem tranquila, superando desafios à medida que surgiam. Em paralelo, a análise das questões em Python foi conduzida de forma eficaz, aproveitando minha proficiência na linguagem e referenciando o repositório fornecido. Além disso, a criação do dashboard no Google Data Studio com a integração do Looker Studio foi realizada de maneira fluida, envolvendo o salvamento de queries do BigQuery e a inclusão de uma análise complementar.
+      Neste projeto, conduzi a resolução de perguntas em SQL, onde minha experiência e familiaridade com a linguagem proporcionaram uma abordagem tranquila, superando desafios à medida que surgiam. Em paralelo, a análise das questões em Python foi conduzida de forma eficaz, aproveitando minha proficiência na linguagem e referenciando o repositório fornecido. Além disso, a criação do dashboard no Google Data Studio com a integração do Looker Studio foi realizada de maneira fluida, envolvendo o salvamento de queries do BigQuery e a inclusão de uma análise complementar. As respostas das queries estão no arquivo analise_python.ipynb.
 
 
 ## Sobre a resolução das perguntas em SQL: ⬇️
