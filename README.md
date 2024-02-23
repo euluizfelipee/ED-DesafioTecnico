@@ -21,22 +21,23 @@ Neste projeto, conduzi a resolução de perguntas em SQL, onde minha experiênci
 
 No que diz respeito ao SQL, não encontrei dificuldades, pois já possuía experiência na área e familiaridade com a linguagem. À medida que avançava na resolução das perguntas, algumas tornavam-se um pouco mais desafiadoras, mas ainda assim, sem grandes obstáculos.
 
-### 🟥 Caminho para as queries das perguntas propostas em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_sql.sql](/Desafio_Tecnico/perguntas_e_Respostas/analise_sql.sql)
-### 🟥 Caminho para as respostas em CSV das perguntas Q01 a Q10: [respostas_q01_q10.csv](/Desafio_Tecnico/perguntas_e_Respostas/respostas_q01_q10.csv)
-### 🟥 Caminho para as respostas em CSV da análise complementar QC01 a QC05: [respostas_qc01_qc05.csv](/Desafio_Tecnico/perguntas_e_Respostas/respostas_qc01_qc05.csv)
-### 🟥 Caminho para as queries complementares em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_complementar_sql.sql](/Desafio_Tecnico/perguntas_e_Respostas/analise_complementar_sql.sql)
-### 🟥 Caminho que contém o arquivo com todas as resoluções das queries seguindo a minha lógica: [analisesql.md](/Desafio_Tecnico/perguntas_e_Respostas/analisesql.md)
+### 🟥 Caminho para as queries das perguntas propostas em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_sql.sql](Perguntas%20e%20Respostas/analise_sql.sql)
+### 🟥 Caminho para as respostas em CSV das perguntas Q01 a Q10: [respostas_q01_q10.csv](Perguntas%20e%20Respostas/)
+### 🟥 Caminho para as respostas em CSV da análise complementar QC01 a QC05: [respostas_qc01_qc05.csv](Perguntas%20e%20Respostas/)
+### 🟥 Caminho para as queries complementares em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_complementar_sql.sql](Perguntas%20e%20Respostas/analise_complementar.sql)
+### 🟥 Caminho que contém o arquivo com todas as resoluções das queries seguindo a minha lógica: [analisesql.md](Perguntas%20e%20Respostas//analisesql.md)
 
 ## Sobre a solução das perguntas em Python: ⬇️
 
 A análise, em sua essência, não apresentou problemas significativos pois já tinha bastante familiaridade com a linguagem. Utilizei como referência o conteúdo disponível no repositório que você me forneceram como exemplo. Em seguida, importei as bibliotecas necessárias e configurei a autorização para a entrada de dados no BigQuery. Optei por uma IDE com a qual já estava familiarizado para facilitar a execução das questões, escolhendo o Google Colab para facilitar o processo.
 
-### 🟥 Caminho para o arquivo Python que utilizei no Google Colab, consolidando tanto a solução quanto a resolução das perguntas propostas nas questões do desafio em um único documento: [analise_python.ipynb](/Desafio_Tecnico/perguntas_e_Respostas/analise_python.ipynb)
-### 🟥 Adicionalmente, disponibilizo um arquivo completo em .py, permitindo uma abordagem de copiar e colar (Ctrl+C e Ctrl+V) para cada pergunta no Google Colab: [analise_python.py](/Desafio_Tecnico/perguntas_e_Respostas/analise_python.py)
+### 🟥 Caminho para o arquivo Python que utilizei no Google Colab, consolidando tanto a solução quanto a resolução das perguntas propostas nas questões do desafio em um único documento: [analise_python.ipynb](Perguntas%20e%20Respostas//analise_python.ipynb)
+### 🟥 Adicionalmente, disponibilizo um arquivo completo em .py, permitindo uma abordagem de copiar e colar (Ctrl+C e Ctrl+V) para cada pergunta no Google Colab: [analise_python.py](Perguntas%20e%20Respostas/analise_python.py)
+
 
 ## Sobre o Dashboard: ⬇️
 
 O dashboard final foi criado utilizando o Google Data Studio com a integração do Looker Studio. Não encontrei grandes dificuldades durante o processo; salvei as queries conforme as executava no BigQuery e, posteriormente, montei o dashboard. A análise complementar que realizei também está incluída junto com o dashboard.
 
-### 🟥 Caminho para o dashboard em pdf como um único arquivo. Basta clicar para ver o dashboard: [dashboard.pdf](/Desafio_Tecnico/perguntas_e_Respostas/dashboard.pdf)
+### 🟥 Caminho para o dashboard em pdf como um único arquivo. Basta clicar para ver o dashboard: [dashboard.pdf](Perguntas%20e%20Respostas//dashboard.pdf)
 ### 🟥 Link para o dashboard online. Para acessar, basta ter uma conta vinculada no Google: [dashboard](https://lookerstudio.google.com/s/v2r3oVkvaAE)
