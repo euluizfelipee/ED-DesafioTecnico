@@ -22,22 +22,24 @@ Processo seletivo para a vaga de Cientista de Dados Júnior no Escritório de Da
 ## Sobre a resolução das perguntas em SQL: ⬇️
 
      No que diz respeito ao SQL, não encontrei dificuldades, pois já possuía experiência na área e familiaridade com a linguagem. À medida que avançava na resolução das perguntas, algumas tornavam-se um pouco mais desafiadoras, mas ainda assim, sem grandes obstáculos.
-     
-🟥 Caminho para as queries das perguntas propostas em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_sql.sql](/perguntas_e_Respostas/analise_sql.sql)
+###
 
-🟥 Caminho para as queries complementares em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_complementar_sql.sql](/perguntas_e_Respostas/analise_complementar_sql.sql)
+     🟥 Caminho para as queries das perguntas propostas em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_sql.sql](/perguntas_e_Respostas/analise_sql.sql)
 
-🟥 Caminho que contém o arquivo com todas as resoluções das queries seguindo a minha lógica: 
-[analisesql.md](/perguntas_e_Respostas/analisesql.md)
+     🟥 Caminho para as queries complementares em um único arquivo. Basta copiar e colar no BigQuery questão por questão: [analise_complementar_sql.sql](/perguntas_e_Respostas/analise_complementar_sql.sql)
+
+     🟥 Caminho que contém o arquivo com todas as resoluções das queries seguindo a minha lógica: 
+     [analisesql.md](/perguntas_e_Respostas/analisesql.md)
 
 ## Sobre a solução das perguntas em Python: ⬇️
 
      A análise, em sua essência, não apresentou problemas significativos pois já tinha bastante familiaridade com a linguagem. Utilizei como referência o conteúdo disponível no repositório que você me fornecerão como exemplo. Em seguida, importei as bibliotecas necessárias e configurei a autorização para a entrada de dados no BigQuery. Optei por uma IDE com a qual já estava familiarizado para facilitar a execução das questões, escolhendo o Google Colab para facilitar o processo.
+###
 
- 🟥 Caminho para o arquivo Python que utilizei no Google Colab, consolidando tanto a solução quanto a resolução das perguntas propostas nas questões do desafio em um único documento: [analise_python.ipynb](/perguntas_e_Respostas/analise_python.ipynb)
+     🟥 Caminho para o arquivo Python que utilizei no Google Colab, consolidando tanto a solução quanto a resolução das perguntas propostas nas questões do desafio em um único documento: [analise_python.ipynb](/perguntas_e_Respostas/analise_python.ipynb)
 
- 🟥 Adicionalmente, disponibilizo um arquivo completo em .py, permitindo uma abordagem de copiar e colar (Ctrl+C e Ctrl+V) para cada pergunta no google Colab: 
- [analise_python.py](/perguntas_e_Respostas/analise_python.py)
+     🟥 Adicionalmente, disponibilizo um arquivo completo em .py, permitindo uma abordagem de copiar e colar (Ctrl+C e Ctrl+V) para cada pergunta no google Colab: 
+     [analise_python.py](/perguntas_e_Respostas/analise_python.py)
 
 
 
@@ -45,9 +47,10 @@ Processo seletivo para a vaga de Cientista de Dados Júnior no Escritório de Da
 
         O dashboard final foi criado utilizando o Google Data Studio com a integração do Looker Studio. Não encontrei grandes dificuldades durante o processo; salvei as queries conforme as executava no BigQuery e, posteriormente, montei o dashboard. A análise complementar que realizei também está incluída junto com o dashboard.
 
-🟥Caminho para o dashboard em pdf como um único arquivo. Basta clicar para ver o dashboard: 
-[dashboard.pdf](/perguntas_e_Respostas/dashboard.pdf)
+###
+     🟥Caminho para o dashboard em pdf como um único arquivo. Basta clicar para ver o dashboard: 
+     [dashboard.pdf](/perguntas_e_Respostas/dashboard.pdf)
 
-🟥Link para o dashboard online. Para acessar, basta ter uma conta vinculada no Google.
-[dashboard](https://lookerstudio.google.com/s/v2r3oVkvaAE)
+     🟥Link para o dashboard online. Para acessar, basta ter uma conta vinculada no Google.
+     [dashboard](https://lookerstudio.google.com/s/v2r3oVkvaAE)
 
